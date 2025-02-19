@@ -1,10 +1,10 @@
 --- STEAMODDED HEADER
---- MOD_NAME: Icy's Deck
+--- MOD_NAME: Icy's Collection
 --- MOD_ID: Icy_Cards
 --- PREFIX: IcyCards
 --- MOD_AUTHOR: [Icywhisker; Sunori]
 --- VERSION: 1.1.3
---- MOD_DESCRIPTION: Icy's Custom Deck of Cards <3
+--- MOD_DESCRIPTION: Icy's Custom Collection of Cards <3
 --- DEPENDENCIES: [malverk]
 
 AltTexture({
