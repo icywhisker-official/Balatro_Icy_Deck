@@ -1,3 +1,6 @@
-This repo is compiled from several different authors. Do not expect any updates. 
+This repo is compiled from several different authors. Do not expect any updates.
 
-This repo is for the Game Balatro and requires the Malverk mod to load the textures. It has been tested with Malverk version 1.1
+This mod depends on "Malverk" version 1.1 or newer to run.
+
+
+Other default dependancies: "SteamModded", "Lovely".
